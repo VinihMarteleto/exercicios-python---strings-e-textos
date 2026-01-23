@@ -35,4 +35,23 @@ O objetivo é consolidar os fundamentos da linguagem e criar uma base sólida pa
   idade = 20
   print(f"Olá, meu nome é {nome} e tenho {idade} anos.")
 
+  # 📘 README – Aula 3
+
+## 📖 Conteúdo da Aula
+- Introdução ao tema principal  
+- Conceitos fundamentais apresentados  
+- Exemplos práticos ou exercícios realizados  
+- Discussão sobre aplicações reais  
+
+## 📝 O que aprendi
+- Principais definições e ideias  
+- Passos ou métodos ensinados  
+- Erros comuns e como evitá-los  
+- Aplicações práticas no dia a dia  
+
+## 🚀 Próximos Passos
+- Revisar os conceitos com exercícios extras  
+- Aplicar em um mini-projeto ou prática guiada  
+- Anotar dúvidas para tirar na próxima aula  
+
   
